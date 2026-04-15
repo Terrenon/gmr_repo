@@ -753,7 +753,28 @@
             "groups": {
                 "Heartbreak Scans": "/proxy/api/imgchest/chapter/m9yxdbn2q4q/"
             }
+        },
+        "94": {
+            "volume": "11",
+            "title": "Let's Meet Up",
+            "groups": {
+                "Official": "/proxy/api/imgchest/chapter/pg7323djz4r/"
+            }
+        },
+        "95": {
+            "volume": "11",
+            "title": "Let's Light the Fire",
+            "groups": {
+                "Official": "/proxy/api/imgchest/chapter/a846qz3kwyx/"
+            }
+        },
+        "96": {
+            "volume": "11",
+            "title": "Belting Out a Huge Lie",
+            "groups": {
+                "Heartbreak Scans": "/proxy/api/imgchest/chapter/ne7brol5jy5/"
+            }
         }
     },
-    "last_updated": ""
+    "last_updated": 1776257928.4806037
 }
