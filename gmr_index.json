@@ -774,7 +774,28 @@
             "groups": {
                 "Heartbreak Scans": "/proxy/api/imgchest/chapter/ne7brol5jy5/"
             }
+        },
+        "97": {
+            "volume": "11",
+            "title": "Let's Forget Our Place",
+            "groups": {
+                "Heartbreak Scans": "/proxy/api/imgchest/chapter/qb4z25gvg4j/"
+            }
+        },
+        "98": {
+            "volume": "11",
+            "title": "Let's Enjoy the Main Attraction",
+            "groups": {
+                "Official*": "/proxy/api/imgchest/chapter/xny8nebq2yb/"
+            }
+        },
+        "99": {
+            "volume": "11",
+            "title": "Let's Watch Nikaido Run Wild",
+            "groups": {
+                "Official*": "/proxy/api/imgchest/chapter/6eyrkap9x7p/"
+            }
         }
     },
-    "last_updated": 1776257928.4806037
+    "last_updated": 1783694981.2528334
 }
