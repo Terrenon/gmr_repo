@@ -7,14 +7,14 @@
     "chapters": {
         "12.5": {
             "volume": "1.0",
-            "title": "Making a Friend",
+            "title": "Volume 1 Extra: Making a Friend",
             "groups": {
                 "Heartbreak Scans": "/proxy/api/imgchest/chapter/agyvrovpj78/"
             }
         },
         "21.5": {
             "volume": "2.0",
-            "title": "Dreaming of Cicadas",
+            "title": "Volume 2 Extra: Dreaming of Cicadas",
             "groups": {
                 "Heartbreak Scans": "/proxy/api/imgchest/chapter/n87wmoepg4x/"
             }
@@ -28,7 +28,7 @@
         },
         "30.5": {
             "volume": "3.0",
-            "title": "Gen Tohno Thinks a Lot",
+            "title": "Volume 3 Extra: Gen Tohno Thinks a Lot",
             "groups": {
                 "Heartbreak Scans": "/proxy/api/imgchest/chapter/m9yx3ombqyq/"
             }
@@ -98,7 +98,7 @@
         },
         "39.5": {
             "volume": "4.0",
-            "title": "Enjoying the School Festival",
+            "title": "Volume 4 Extra: Enjoying the School Festival",
             "groups": {
                 "Heartbreak Scans": "/proxy/api/imgchest/chapter/ljyq2o85oy2/"
             }
@@ -154,7 +154,7 @@
         },
         "48.5": {
             "volume": "5.0",
-            "title": "Chatting with the Juniors",
+            "title": "Volume 5 Extra: Chatting with the Juniors",
             "groups": {
                 "Heartbreak Scans": "/proxy/api/imgchest/chapter/ljyq23jpdy2/"
             }
@@ -168,7 +168,7 @@
         },
         "57.5": {
             "volume": "6.0",
-            "title": "How to Be Popular with Girls",
+            "title": "Volume 6 Extra: How to Be Popular with Girls",
             "groups": {
                 "Heartbreak Scans": "/proxy/api/imgchest/chapter/vj4j82xk278/"
             }
@@ -804,5 +804,5 @@
             }
         }
     },
-    "last_updated": 1784357718.37625
+    "last_updated": 1784435590.5763524
 }
