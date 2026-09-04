@@ -807,7 +807,7 @@
             "volume": "11",
             "title": "Let's End the Joint Concert",
             "groups": {
-                "Official": "/proxy/api/imgchest/chapter/agyvon5lz78/"
+                "Official": "/proxy/api/imgchest/chapter/pg73vnwxvyr/"
             }
         },
         "101.5": {
@@ -816,7 +816,14 @@
             "groups": {
                 "Heartbreak Scans": "/proxy/api/imgchest/chapter/9p4nompaz7n/"
             }
+        },
+        "102": {
+            "volume": "11",
+            "title": "Let's Put on a Christmas Concert",
+            "groups": {
+                "Official*": "/proxy/api/imgchest/chapter/9p4nompaz7n/"
+            }
         }
     },
-    "last_updated": 1787925144.2530725
+    "last_updated": 1788534755.8607357
 }
