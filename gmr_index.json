@@ -823,7 +823,56 @@
             "groups": {
                 "Official*": "/proxy/api/imgchest/chapter/6eyroj8wkyp/"
             }
+        },
+        "103": {
+            "volume": "12",
+            "title": "Let's Celebrate New Year's",
+            "groups": {
+                "Official*": "/proxy/api/imgchest/chapter/9249rgnra4n/"
+            }
+        },
+        "104": {
+            "volume": "12",
+            "title": "Let's Start the Third Semester",
+            "groups": {
+                "Official": "/proxy/api/imgchest/chapter/dl7p29pl8yo/"
+            }
+        },
+        "105": {
+            "volume": "12",
+            "title": "Let's Watch Evil Rear Its Head",
+            "groups": {
+                "Official": "/proxy/api/imgchest/chapter/qe4ggx9ao4j/"
+            }
+        },
+        "106": {
+            "volume": "12",
+            "title": "Let's Dig into Rin's Past",
+            "groups": {
+                "Official": "/proxy/api/imgchest/chapter/bp45lzvax75/"
+            }
+        },
+        "107": {
+            "volume": "12",
+            "title": "Let's Perform at an Off-campus Event",
+            "groups": {
+                "Official": "/proxy/api/imgchest/chapter/agyvkwpmw48/"
+            }
+        },
+        "108": {
+            "volume": "12",
+            "title": "Let's Drift Away",
+            "groups": {
+                "Official": "/proxy/api/imgchest/chapter/ne7bmv98k45/"
+            }
+        },
+        "109": {
+            "volume": "12",
+            "title": "Losing Control",
+            "groups": {
+                "Heartbreak Scans": "/proxy/api/imgchest/chapter/agyvkw8zw48/"
+            }
         }
     },
-    "last_updated": 1788535425.799253
+    "last_updated": 1789139141.0691204
 }
