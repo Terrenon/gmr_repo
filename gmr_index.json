@@ -877,7 +877,7 @@
             "volume": "12",
             "title": "Let's Stay Connected",
             "groups": {
-                "Official": "/proxy/api/imgchest/chapter/6eyrqxl3k7p/"
+                "Official*": "/proxy/api/imgchest/chapter/6eyrqxl3k7p/"
             }
         },
         "111": {
@@ -923,5 +923,5 @@
             }
         }
     },
-    "last_updated": 1792164513.8878691
+    "last_updated": 1792167954.6391544
 }
