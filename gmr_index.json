@@ -872,7 +872,56 @@
             "groups": {
                 "Heartbreak Scans": "/proxy/api/imgchest/chapter/agyvkw8zw48/"
             }
+        },
+        "110": {
+            "volume": "12",
+            "title": "Let's Stay Connected",
+            "groups": {
+                "Official": "/proxy/api/imgchest/chapter/6eyrqxl3k7p/"
+            }
+        },
+        "111": {
+            "volume": "12",
+            "title": "Let's Bury Our Senpai",
+            "groups": {
+                "Official": "/proxy/api/imgchest/chapter/md7o2e83a4p/"
+            }
+        },
+        "112": {
+            "volume": "13",
+            "title": "Let's Remember the Withered Days",
+            "groups": {
+                "Official": "/proxy/api/imgchest/chapter/9p4np38owyn/"
+            }
+        },
+        "113": {
+            "volume": "13",
+            "title": "Asaku Tsuru Crumbles to Pieces",
+            "groups": {
+                "Heartbreak Scans": "/proxy/api/imgchest/chapter/bp45w2qb245/"
+            }
+        },
+        "113.5": {
+            "volume": "13",
+            "title": "Bonus Chapter 8: Let's Dish Out the Yonsu Gossip",
+            "groups": {
+                "Official": "/proxy/api/imgchest/chapter/lqye8qmx3yd/"
+            }
+        },
+        "114": {
+            "volume": "13",
+            "title": "Let's Ponder a Musician's Dilemma",
+            "groups": {
+                "Official": "/proxy/api/imgchest/chapter/9p4np385myn/"
+            }
+        },
+        "115": {
+            "volume": "13",
+            "title": "Let's Confide in a Friend",
+            "groups": {
+                "Official": "/proxy/api/imgchest/chapter/wl7ln3oeq4x/"
+            }
         }
     },
-    "last_updated": 1789139662.9392238
+    "last_updated": 1792164513.8878691
 }
